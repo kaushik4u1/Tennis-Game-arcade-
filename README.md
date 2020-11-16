@@ -1,1 +1,2 @@
 # Tennis-Game-arcade-
+Tennis Game(Arcade) is a two-dimensional sports game that simulates table tennis. The player controls an in-game paddle by moving it vertically across the left or right side of the screen. They can compete against another player controlling a second paddle on the opposing side(Use Mouse to get better paddle experience). Players use the paddles to hit a ball back and forth. The score will be count on the basis of, how many times another opponent has skipped hitting the ball. This Project has made by using Html, CSS, Bootstrap, and javascript
