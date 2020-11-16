@@ -1,0 +1,75 @@
+body{
+  width: 100%;
+  height: 100%;
+  margin: 0; 
+background-image: url("2.jpg");
+  background-color: #cccccc;}
+  a{
+    text-decoration: none;
+   }
+.H1{
+font-style : oblique;
+font-weight: bold;
+ font-stretch: expanded;
+ color :#b33939;
+font-size :60px; 
+text-decoration: underline;
+}
+
+.header{
+display: list-item;
+
+}
+.btn {
+  height: 70px;
+  width: 180px;
+  background-color: #e17055;
+  margin-top: 80px;
+  margin-right: 150px;
+  margin-left: 80px;
+  text-align: center;
+ font-style : oblique;
+ }
+.btn1 {
+  height: 70px;
+  width: 240px;
+  background-color: #e17055;
+  margin-top: 110px;
+  margin-bottom: 50px;
+  margin-right: 150px;
+  margin-left: 190px;
+  text-align: center;
+font-style : oblique; 
+ } 
+
+.btn2 {
+  height: 60px;
+  width: 200px;
+  background-color: #e17055;
+  margin-top: 0px;
+  margin-bottom: 50px;
+  margin-right: 150px;
+  margin-left: 300px;
+  text-align: center;
+font-style : oblique;
+ }
+.btn3 {
+  height: 60px;
+  width: 200px;
+  background-color: #e17055;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-right: 150px;
+  margin-left: 390px;
+  text-align: center;
+font-style : oblique;
+ }
+/*.header{
+  
+  padding-bottom: 50px;
+  margin-bottom: 20px;
+  text-align: center;
+  color: #f8f8f8;
+  background: url(1.jpg) ;
+  background-size: fill;
+} */
